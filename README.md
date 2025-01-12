@@ -1,4 +1,4 @@
-# Turtle_Games_Consumer_Segment
+# Turtle_Games_Consumer_Segmentation
 Marketing Case Study Using Predictive Analytics
 
 Turtle Games, a global manufacturer and retailer of games, books, board games, video games and toys, aims to improve its overall sales performance by understanding customer trends. This report focuses on analysing customer data to achieve the following objectives:
