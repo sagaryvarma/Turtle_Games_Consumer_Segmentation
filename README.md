@@ -16,3 +16,7 @@ The insights gained from this analysis will inform Turtle Games' marketing strat
 DATA AND METHODOLOGY
 
 The analysis utilises the 'turtle_reviews.csv' dataset, containing customer information such as age, gender, education, remuneration, spending score, and loyalty points. The dataset was cleaned and pre- processed to ensure data quality and consistency. For NLP analysis, customer reviews and summaries were extracted.
+Programming Languages used:
+
+        EDA and Statistical analysis in R
+        NLP Sentiment Analysis in Python
